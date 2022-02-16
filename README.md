@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about DSA, Backend web development
-- 📫 How to reach me: <img src="https://github.com/Kushagrasri/Kushagrasri/assets/linkedin.png" width=100>
+- 📫 How to reach me: <img src="https://github.com/Kushagrasri/Kushagrasri/linkedin.png" width=100>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
