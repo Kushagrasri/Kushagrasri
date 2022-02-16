@@ -11,6 +11,11 @@ Now that you've found me, here's a cookie 🍪
 
 ## Reach out to me at -
 [<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/linkedin.png" width=40>](https://www.linkedin.com/in/kushagrasri)    [<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/gmail.png" width=60>](mailto:kushwork1@gmail.com)  [<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/instagram.png" width=40>](https://www.instagram.com/kushagrasri/)
+
+
+<a href="#" target="blank"><img align="center" src="https://github.com/Kushagrasri/Kushagrasri/blob/main/linkedin.png" alt="aashimaahuja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aashimaahuja/" target="blank"><img align="center" src="https://github.com/Kushagrasri/Kushagrasri/blob/main/gmail.png" alt="aashimaahuja" height="30" width="40" /></a>
+<a href="https://instagram.com/aashi811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashimaahuja" height="30" width="40" /></a>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
