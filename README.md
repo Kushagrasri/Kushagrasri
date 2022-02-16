@@ -5,7 +5,7 @@ Now that you've found me, here's a cookie 🍪
 
 ## My Work Experience 👨🏻‍💻
 
-# [ Sharechat <img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/linkedin.png" height=50>](https://www.linkedin.com/in/kushagrasri)
+# <a href="sharechat.com"> Sharechat </a>
 
 - 🔭 I’m currently working on A/B Testing at Sharechat
 - 🌱 I’m currently learning CI/CD pipeline
