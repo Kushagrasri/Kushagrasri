@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Kushagrasri/Kushagrasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 ## Reach out to me at -
-[<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/linkedin.png" width=30>](https://www.linkedin.com/in/kushagrasri)       [<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/gmail.png" width=60>](mailto:kushwork1@gmail.com)
+[<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/linkedin.png" width=45>](https://www.linkedin.com/in/kushagrasri)       [<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/gmail.png" width=60>](mailto:kushwork1@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
