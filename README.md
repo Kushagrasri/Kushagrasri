@@ -6,6 +6,8 @@ Now that you've found me, here's a cookie 🍪
 ## My Work Experience 👨🏻‍💻
 
 ### <a href="sharechat.com"> Sharechat </a>
+[<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/sharechat.png" height=60>](https://www.linkedin.com/)
+[<img src="https://github.com/Kushagrasri/Kushagrasri/blob/main/innovaccer.png" height=60>](https://www.linkedin.com/)
 
 - 🔭 I’m currently working on A/B Testing at Sharechat
 - 🌱 I’m currently learning CI/CD pipeline
